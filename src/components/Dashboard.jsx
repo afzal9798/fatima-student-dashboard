@@ -165,7 +165,7 @@ function Dashboard() {
 
             <tr>
               <td>CGPA</td>
-              <td>8.6</td>
+              <td>6.43</td>
             </tr>
 
             <tr>
