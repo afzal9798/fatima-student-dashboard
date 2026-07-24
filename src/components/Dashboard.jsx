@@ -160,7 +160,7 @@ function Dashboard() {
 
             <tr>
               <td>Overall Attendance</td>
-              <td>92%</td>
+              <td>91%</td>
             </tr>
 
             <tr>
