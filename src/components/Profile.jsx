@@ -33,6 +33,11 @@ function Profile() {
             <td>fatimatabrez10@gmail.com</td>
           </tr>
 
+          <tr>
+            <td>Academic Year</td>
+            <td>2026-27</td>
+          </tr>
+
         </tbody>
 
       </table>
