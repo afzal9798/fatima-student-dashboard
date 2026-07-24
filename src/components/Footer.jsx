@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="footer">
-      <p>© 2026 Student Dashboard | Developed using React.js</p>
+      <p>© 2026 Student Dashboard. All Rights Reserved.</p>
     </footer>
   );
 }
