@@ -16,6 +16,7 @@ function Dashboard() {
           Welcome to your academic dashboard. Here you can check your
           attendance, marks, assignments, fee status and timetable.
         </p>
+        <p className="welcome-note">Keep learning and achieve your goals!</p>
       </div>
 
       {/* Dashboard Cards */}
