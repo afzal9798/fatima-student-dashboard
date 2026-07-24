@@ -29,7 +29,7 @@ function Dashboard() {
         <div className="card">
           <FaCalendarCheck className="icon" />
           <h3>Attendance</h3>
-          <p>92%</p>
+          <p>91%</p>
         </div>
 
         <div className="card">
