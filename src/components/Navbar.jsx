@@ -8,6 +8,7 @@ function Navbar() {
 
       <div>
         <h1>Student ERP Dashboard</h1>
+        <p>Welcome to Student Dashboard</p>
         <p>{today}</p>
       </div>
 
