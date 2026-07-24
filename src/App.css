@@ -179,6 +179,8 @@ color:#2563eb;
 .card{
 
 transition:.3s;
+overflow-wrap: break-word;
+word-break: break-word;
 
 }
 
@@ -423,4 +425,56 @@ width:100%;
 
 }
 
+}
+/* ===========================
+   Responsive Design
+=========================== */
+
+@media (max-width: 768px) {
+
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  .main {
+    margin-left: 0;
+    width: 100%;
+    padding: 15px;
+  }
+
+  .cards {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+
+  .quick-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    word-wrap: break-word;
+  }
 }
