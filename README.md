@@ -189,7 +189,7 @@ Feel free to fork the repository, create a new branch, and submit a pull request
 
 # 👨‍💻 Author
 
-**Afzal Sabir**
+**Fatima Tabrez**
 
 GitHub:
 https://github.com/afzal9798
